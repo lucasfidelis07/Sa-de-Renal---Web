@@ -1,29 +1,6 @@
-# WebApplication
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Instale as dependências necessárias abaixo:
+1. Node: https://nodejs.org/pt 
+2. No terminal, dentro da pasta da aplicação web, execute #npm install –g @vue/cli
+3. Após a instalação, execute #npm install
+4. Para executar a aplicação web, digite no terminal #npm run dev# e, após alguns
+segundos, um link será gerado no terminal para acesso à aplicação.
