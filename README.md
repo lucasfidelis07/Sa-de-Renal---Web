@@ -1,4 +1,4 @@
-## Instale as dependências necessárias abaixo:
+## Instale as dependências necessárias abaixo
 1. Node: https://nodejs.org/pt 
 2. No terminal, dentro da pasta da aplicação web, execute npm install –g @vue/cli
 3. Após a instalação, execute npm install
